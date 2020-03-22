@@ -1,0 +1,26 @@
+.app-page { 
+  padding: 2rem; 
+}
+
+.app-main-layout {
+  position:relative;
+  min-height:100vh
+}
+
+.app-content {
+  padding: 0;
+  position: relative 
+}
+
+.navbar {
+  position: relative;
+}
+
+.nav-heading {
+  display: block;
+  margin: 0 auto; 
+  font-size: 40px;
+  line-height: 64px;
+  text-align: center;
+  color: white;
+}
