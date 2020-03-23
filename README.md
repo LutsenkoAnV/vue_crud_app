@@ -1,4 +1,4 @@
-# vue_start_project
+[vue_crud_app](https://ancient-ravine-87305.herokuapp.com/)
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
