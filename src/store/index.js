@@ -22,12 +22,12 @@ export default new Vuex.Store({
     },
     initialiseStore() {
       if(localStorage.getItem('users')) {
-				this.replaceState(
+        this.replaceState(
           {
             users: JSON.parse(localStorage.getItem('users')),
           }
-				);
-			}
+        );
+      }
     },
   },
   getters: {
